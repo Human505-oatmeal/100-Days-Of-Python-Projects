@@ -1,4 +1,4 @@
-# Randomisation and Python Lists
+# Day 4: Randomisation and Python Lists
 
 ## Rock Paper Scissors
 - https://replit.com/@human5051/rock-paper-scissors-start
