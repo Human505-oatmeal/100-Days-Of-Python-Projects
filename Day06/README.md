@@ -1,10 +1,9 @@
-# Day 4: Python Functions & Karel
+# Day 6: Python Functions & Karel
 
 ## Escape The Maze
 - https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
-## Showcase
 
-Put this code in:
+Code:
 
 ```python
 
@@ -31,6 +30,8 @@ while not at_goal():
         turn_left()
 
 ```
+
+## Showcase
 
 
 ![maze_algo](maze_algo.gif)
