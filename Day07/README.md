@@ -1,6 +1,6 @@
 # Day 7: Hangman
 
-## Hangman code
+## Hangman
 
 - https://replit.com/@human5051/Day-7-Hangman-5-Start
 
