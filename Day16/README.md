@@ -4,4 +4,4 @@
 
 ## Showcase
 
-![coffee_machine_oop.gif]
+![](coffee_machine_oop.gif)
