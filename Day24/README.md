@@ -1,6 +1,6 @@
 # Day 24
 
-## Mail Merge Project
+## Mail Merge
 
 ## Showcase
 
