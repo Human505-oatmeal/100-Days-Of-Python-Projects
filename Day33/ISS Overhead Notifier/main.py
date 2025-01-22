@@ -54,4 +54,4 @@ while True:
             msg="Subject:Look up!\n\nThe ISS is above you in the sky."
         )
     else:
-        print("Test")
+        pass
